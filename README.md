@@ -23,10 +23,12 @@ Also gives you basic information about the file such as:
   Size of the uncompressed file (real size)
   Extract all the files of the archive into current directory
   Reveal the password
-  
-========================================
+
+
 REQUIREMENT
-For Rar Files download a good library at https://pypi.python.org/pypi/rarfile/ cause not included in python
-FOR RAR FILE on windows
- Set to full path of unrar.exe if it is not in PATH or include library 
+========================================
+-For Rar Files download a good library at https://pypi.python.org/pypi/rarfile/ cause not included in python
+
+-For Rar FILE on WINDOWS
+Set to full path of unrar.exe if it is not in PATH or include library (might be included in updates)
 
