@@ -1,0 +1,8 @@
+USAGE
+=======================================================================
+in command prompt 
+
+python ZIP-RAR_cracker.py -f <file> -d <dicfile>
+
+file = archive (must be rar or zip typed)
+dicfile= dictionary (e.g dictionary .txt)
