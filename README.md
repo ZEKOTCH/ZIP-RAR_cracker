@@ -29,6 +29,6 @@ REQUIREMENT
 ========================================
 -For Rar Files download a good library at https://pypi.python.org/pypi/rarfile/ cause not included in python
 
--For Rar FILE on WINDOWS
+-For Rar files on Windows
 Set to full path of unrar.exe if it is not in PATH or include library (might be included in updates)
 
